@@ -1,7 +1,7 @@
 
 ((
-    ((([["ENHERLYSWAR"],
-    ["https://www.mediafire.com/file/10hb8nh5aal3k2u/ToolGopHerlysWar.py/file"],
+    ((([["NC Hoài"],
+    ["https://www.nguyencaohoai.website/"],
     ["PYTHON"],
     3.11
     ],
